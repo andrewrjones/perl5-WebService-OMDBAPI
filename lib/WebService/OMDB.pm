@@ -123,7 +123,7 @@ __END__
   {
     'Director' => 'Frank Darabont',
     'imdbID' => 'tt0120689',
-    'Poster' => 'http://ia.media-imdb.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg',
+    'Poster' => '...',
     'Actors' => 'Tom Hanks, David Morse, Michael Clarke Duncan, Bonnie Hunt',
     'Metascore' => '61',
     'imdbRating' => '8.5',
